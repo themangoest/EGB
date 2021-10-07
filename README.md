@@ -5,7 +5,7 @@ A / D period: 8ms-4min
 Amplitude: 0-5Vp
 EG mode and LFO mode can be selected with the -p switch.
 With manual trigger
-Total amount: 900 yen
+
 
 The characteristic is the Bezier curve.
 As far as I know, there is no commercially available module that outputs this curve.
@@ -23,7 +23,4 @@ Therefore, the program is a little annoying, but I decided not to use interrupts
 
 The Bezier curve formula is difficult, but if the start point is fixed at (0,0) and the end point is fixed at (1,1), it can be approximated to a simple formula. I was able to refer to the web page below.
 
-Hardware
-Arduino is an Arduino nano clone
-The good thing about digital is that it's cheap, high performance, and less soldering.
 
