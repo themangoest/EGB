@@ -12,7 +12,7 @@ byte aut_trigger = 0;//オートトリガーSW。0でOFF,1でON
 //table_sw1&2 Look at the state of select_tableSet
 //sw1=1,sw2=0 so log/exp
 //sw1=0,sw2=1 so bezie
-//sw1=1,sw2=0 so ind.log/exp
+//sw1=0,sw2=0 so ind.log/exp
 
 //byte select_table = 0;//Selected waveform[0=log/exp][1=bezie][2=ind.log.exp]
 byte table_sw1 = 1;//
