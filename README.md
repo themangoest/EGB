@@ -23,4 +23,4 @@ Therefore, the program is a little annoying, but I decided not to use interrupts
 
 The Bezier curve formula is difficult, but if the start point is fixed at (0,0) and the end point is fixed at (1,1), it can be approximated to a simple formula. I was able to refer to the web page below.
 
-
+Inspired by Hagiwo 
