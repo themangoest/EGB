@@ -25,7 +25,7 @@ Amount,Designator,Part Type,Properties
 1,LED,Red LED - 5mm,package 5 mm [THT]; leg yes; color Red (633nm)
 2,"r1, r2",Rotary Potentiometer (Small),package THT; size Rotary - 9mm; track Linear; type Rotary Shaft Potentiometer; maximum resistance 100kΩ
 3,"r3, r7, r8",10k Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 10kΩ
-3,"r4, r5, r9",100k Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 100kΩ
+3,"r4, r5, r9, r11",100k Ω Resistor,package 0603 [SMD]; tolerance ±5%; resistance 100kΩ
 2,"CV TIME, OUT",BANANA BLUE,
 1,TRIG IN,BANANA RED,
 2,standoff,10mm,female-female
